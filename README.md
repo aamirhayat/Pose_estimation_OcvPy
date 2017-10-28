@@ -8,4 +8,4 @@ images = glob.glob('*.png') # make .jpg if required
 ```
 ---
 ### Output
-![Output Image](https://github.com/aamirhayat/Pose_estimation_OcvPy/blob/master/Screenshot.png)
+![Output Image](https://github.com/aamirhayat/Pose_estimation_OcvPy/blob/master/Screenshot.png = 500x)
